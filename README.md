@@ -1,6 +1,6 @@
 # OPENVPN-CONFIG
 
-pkg update
+pkg update -y
 
 termux-setup-storage
 
