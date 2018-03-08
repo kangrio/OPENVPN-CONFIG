@@ -13,4 +13,7 @@ wget -O ../usr/bin/dtac "http://download1103.mediafire.com/3lm5k92esjkg/9mdllyro
 chmod +x ../usr/bin/dtac
 
 
-d
+
+
+
+Good luck
