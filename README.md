@@ -1,7 +1,5 @@
 # OPENVPN-CONFIG
 
-pkg update -y
-
 termux-setup-storage
 
 mkdir /sdcard/ovpn
