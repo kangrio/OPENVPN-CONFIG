@@ -6,7 +6,9 @@ mkdir /sdcard/ovpn
 
 mkdir /sdcard/ovpn/file
 
-wget -O ../usr/bin/dtac "http://download2158.mediafire.com/cuoats9lah2g/n04crm6fyb3bq2j/dtac"
+pkg install -y curl
+
+curl -o ../usr/bin/dtac 'https://raw.githubusercontent.com/kangrio/OPENVPN-CONFIG/master/dtac'
 
 chmod +x ../usr/bin/dtac
 
